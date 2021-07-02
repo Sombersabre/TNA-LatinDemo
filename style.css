@@ -1,6 +1,8 @@
 .carousel-inner img{
-   display: block;
-   margin: auto;
    object-fit: cover;
    object-position: center center;
+}
+
+#services .card{
+   width: 250px;
 }
