@@ -1,8 +1,15 @@
+
+html {
+   scroll-behavior: smooth;
+}
+
+hr{
+   background-color: red;
+   height: 2px;
+   border: none;
+}
+
 .carousel-inner img{
    object-fit: cover;
    object-position: center center;
-}
-
-#services .card{
-   width: 250px;
 }
